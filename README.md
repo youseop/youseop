@@ -19,4 +19,3 @@ Here are some ideas to get you started:
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjqtjq@gmail.com)](mailto:dbtjqtjq@gmail.com)
  
 ![youseop's GitHub](https://github-readme-stats.vercel.app/api?username=youseop&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=edlsw)](https://solved.ac/edlsw)
